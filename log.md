@@ -19,12 +19,12 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: 04 Avril 2021, dimanche
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I finish all the tutorials video de <le designer du web> HTML/CSS 156 episodes total .
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+i should make un goal everyday for myself to go ahead. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. https://www.youtube.com/watch?v=ncwJ29-t6Bc&list=PLpG9MHuD988hCaUVGGGYrDa97I26kX8EN&index=22&ab_channel=LeDesignerduWeb
