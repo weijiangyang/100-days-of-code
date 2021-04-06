@@ -28,3 +28,6 @@ i should make un goal everyday for myself to go ahead.
 
 **Link(s) to work**
 1. https://www.youtube.com/watch?v=ncwJ29-t6Bc&list=PLpG9MHuD988hCaUVGGGYrDa97I26kX8EN&index=22&ab_channel=LeDesignerduWeb
+
+###Day 3 : 06 Avril 2021,mardi
+today's progress: faire des formes originales avec clip-path: polygone
